@@ -1,0 +1,11 @@
+SYNTHETIC DEMONSTRATION RESUME — NOT A REAL PERSON
+Kabir Sethi
+Java Engineer
+Email: kabir.sethi@example.com
+Phone: +91 98765 43213
+Current role: Java Engineer
+7 years of experience developing distributed systems.
+Skills: Java, Spring Boot, Microservices, REST APIs
+Notice period: 45 days
+Location: Noida
+Education: M.Tech Software Engineering

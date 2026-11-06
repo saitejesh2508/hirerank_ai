@@ -1,0 +1,11 @@
+SYNTHETIC DEMONSTRATION RESUME — NOT A REAL PERSON
+Pooja Nair
+Java Developer
+Email: pooja.nair@example.com
+Phone: +91 98765 43212
+Current role: Java Developer
+4 years of experience developing REST APIs.
+Skills: Java, Hibernate, REST APIs
+Notice period: 90 days
+Location: Noida
+Education: B.Tech Information Technology

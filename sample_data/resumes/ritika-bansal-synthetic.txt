@@ -1,0 +1,11 @@
+SYNTHETIC DEMONSTRATION RESUME — NOT A REAL PERSON
+Ritika Bansal
+Senior Java Developer
+Email: ritika.bansal@example.com
+Phone: +91 98765 43210
+Current role: Senior Java Developer
+6.5 years of experience building Java services.
+Skills: Java, Spring Boot, Microservices, Hibernate
+Notice period: 60 days
+Location: Noida
+Education: B.Tech Computer Science

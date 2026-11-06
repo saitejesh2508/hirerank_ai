@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
+backend/uploads/
+frontend/node_modules/
+frontend/dist/
+*.log
+.DS_Store
+Thumbs.db
+submission.zip
+Technical_Design_Document.docx
